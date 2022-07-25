@@ -9,7 +9,7 @@ public class Dev {
 
     private String nome;
 
-    private Set<Conteudo> conteudosInscritos = new LinkedHashSet<>(); // implementa uma lista conforme onde de inscrição
+    private Set<Conteudo> conteudosInscritos = new LinkedHashSet<>();
 
     private Set<Conteudo> conteudosConcluidos = new LinkedHashSet<>();
 
